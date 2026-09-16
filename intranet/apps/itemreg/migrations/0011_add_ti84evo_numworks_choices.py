@@ -23,6 +23,7 @@ class Migration(migrations.Migration):
                     ("ti89", "TI-89"),
                     ("nspirecx", "TI-Nspire CX"),
                     ("nspirecas", "TI-Nspire CAS"),
+                    ("numworks", "NumWorks"),
                     ("otherti", "Other TI"),
                     ("other", "Other"),
                 ],
