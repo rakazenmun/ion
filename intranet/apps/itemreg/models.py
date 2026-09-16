@@ -14,6 +14,7 @@ class CalculatorRegistration(models.Model):
         ("ti89", "TI-89"),
         ("nspirecx", "TI-Nspire CX"),
         ("nspirecas", "TI-Nspire CAS"),
+        ("numworks", "Numworks"),
         ("otherti", "Other TI"),
         ("other", "Other"),
     )
